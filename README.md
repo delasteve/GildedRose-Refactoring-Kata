@@ -16,3 +16,7 @@ still works correctly. However, do not alter the Item class or Items property as
 goblin in the corner who will insta-rage and one-shot you as he doesn't believe in shared code
 ownership (you can make the UpdateQuality method and Items property static if you like, we'll cover
 for you).
+
+#### Editor's Note
+
+Please, treat this code like you would production (you'll have to maintain it for years to come).
